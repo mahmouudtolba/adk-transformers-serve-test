@@ -15,7 +15,7 @@ it will run on port 8080
 
 ## talk the model through out the server
 ```bash
-python main.py
+python transformer_serve.py
 ```
 ## run the agent
 ```bash
